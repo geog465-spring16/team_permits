@@ -1,3 +1,4 @@
-id,Work Type
-1,No plan review
-2,Plan Review
+id,Permit Type
+1,Site Development
+2,Construction
+3,Demolition
